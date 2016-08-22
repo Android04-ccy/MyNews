@@ -1,0 +1,43 @@
+<com.example.administrator.mynews.common.SuperSwipeRefreshLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/nba_swipe"
+    android:background="#ca24d2"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="NBA"
+        android:textSize="50dp"
+        android:textColor="#ea1616"
+        />
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/nba_recy"
+            android:itemBackground="@drawable/item_perss"
+            >
+
+
+        </android.support.v7.widget.RecyclerView>
+
+    </com.example.administrator.mynews.common.SuperSwipeRefreshLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

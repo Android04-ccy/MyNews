@@ -1,0 +1,34 @@
+
+
+<com.example.administrator.mynews.common.SuperSwipeRefreshLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:id="@+id/top_swipe"
+    android:background="#cc0f41"
+tools:context="com.example.administrator.mynews.view.TopFragment">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="TOP"
+        android:textSize="50dp"
+        android:textColor="#ea1616"
+        />
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+           android:id="@+id/top_recy"
+            >
+       </android.support.v7.widget.RecyclerView>
+
+
+
+
+
+
+</com.example.administrator.mynews.common.SuperSwipeRefreshLayout>
+

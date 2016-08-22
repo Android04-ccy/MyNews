@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+             tools:context="com.example.administrator.mynews.view.MainFragment">
+
+
+             <android.support.v7.widget.RecyclerView
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 layout="@layout/main_top"
+
+                 android:id="@+id/fra_main_top_recy"
+                 ></android.support.v7.widget.RecyclerView>
+
+
+
+             <android.support.v4.view.ViewPager
+
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/fra_main"
+                 android:layout_marginTop="60dp"
+
+                 ></android.support.v4.view.ViewPager>
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_float"
+        android:background="@color/pink"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/icon_up"
+        android:layout_marginRight="45dp"
+        android:layout_marginEnd="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+     <FrameLayout
+        android:id="@+id/fra_main_fra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp" />
+
+
+
+</RelativeLayout>
+
+

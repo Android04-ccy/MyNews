@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="share">share</string>
+    <string name="appevents_adunitid">/6499/example/APIDemo/AppEvents</string>
+    <string name="bannersizes_fragment_title">AdMob Banner Sizes</string>
+    <string name="fluid_adunitid">/6499/example/APIDemo/Fluid</string>
+    <string-array name="bannersizes_smallsizes">
+        <item>Banner</item>
+        <item>Large Banner</item>
+        <item>Smart Banner</item>
+    </string-array>
+    <string name="bannersizes_size">Size</string>
+    <string name="bannersizes_loadad">Load New Ad</string>
+    <string-array name="bannersizes_largesizes">
+        <item>Banner</item>
+        <item>Large Banner</item>
+        <item>Smart Banner</item>
+        <item>Full Banner</item>
+        <item>Medium Rectangle</item>
+        <item>Leaderboard</item>
+    </string-array>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="admob_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_customevent_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

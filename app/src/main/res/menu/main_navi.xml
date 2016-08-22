@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="首页"
+
+     android:icon="@drawable/biz_navigation_tab_news"
+       android:id="@+id/navi_home"/>
+    <item android:id="@+id/navi_collect"
+        android:icon="@drawable/biz_navigation_tab_read"
+
+           android:title="收藏"/>
+    <item android:id="@+id/navi_native"
+        android:icon="@drawable/biz_navigation_tab_local_news"
+        android:title="本地"/>
+
+    <item android:id="@+id/navi_gen"
+        android:icon="@drawable/biz_navigation_tab_ties"
+        android:title="跟帖"/>
+
+    <item android:id="@+id/navi_icon"
+
+        android:icon="@drawable/biz_navigation_tab_pics"
+        android:title="图片"/>
+</menu>

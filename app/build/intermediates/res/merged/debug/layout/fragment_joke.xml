@@ -1,0 +1,25 @@
+<com.example.administrator.mynews.common.SuperSwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/joke_swipe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#53c9b5"
+    tools:context="com.example.administrator.mynews.view.JokeFragment">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="joke"
+    android:textSize="50dp"
+    android:textColor="#ea1616"
+    />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:id="@+id/joke_recy"
+        android:itemBackground="@drawable/item_perss"
+
+        ></android.support.v7.widget.RecyclerView>
+</com.example.administrator.mynews.common.SuperSwipeRefreshLayout>

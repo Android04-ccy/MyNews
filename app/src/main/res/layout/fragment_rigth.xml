@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+                android:background="#ffc"
+    tools:context="com.example.administrator.mynews.view.RigthFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/login_tob"
+        android:background="#e71111"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="登陆界面"
+            android:textColor="#ffff"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:id="@+id/rigth_tob_tv"
+            />
+
+    </android.support.v7.widget.Toolbar>
+
+
+
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sign_in"
+        android:layout_below="@id/login_tob"
+        ></android.support.v4.view.ViewPager>
+
+
+
+
+
+
+
+</RelativeLayout>

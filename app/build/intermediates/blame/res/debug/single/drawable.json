@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_bluetooth.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit1.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\edit1.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_foursquare.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_googleplus.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_shortmessage.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_email.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_title_div.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_wechat.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_kaixin.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_instapaper.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_pc_main_info_profile_avatar_bg_dark.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\biz_pc_main_info_profile_avatar_bg_dark.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_instagram.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_navigation_tab_news.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\biz_navigation_tab_news.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_facebook.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_laiwang.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_douban.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_dropbox.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_up.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\icon_up.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_evernote.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit2.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\edit2.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_line.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_top1.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\news_top1.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_pinterest.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_qzone.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_perss.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\item_perss.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_youdao.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_pocket.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_vkontakte.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_auth_title_back.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_recy.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\top_recy.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_check_checked.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_linkedin.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_navigation_tab_ties.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\biz_navigation_tab_ties.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_check_default.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fab_star.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ic_fab_star.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_navigation_tab_read.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\biz_navigation_tab_read.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_tencentweibo.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\news_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_yixin.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_qq.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_mingdao.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_kakaostory.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_back_arr.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_flickr.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center_top_bg.jpg",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\center_top_bg.jpg"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_wechatmoments.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_twitter.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_battery.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\progressbar_battery.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_yixinmoments.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_slidingmenu_left.jpg",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\bg_slidingmenu_left.jpg"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_navigation_tab_pics.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\biz_navigation_tab_pics.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_kakaotalk.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_logo.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_alipay.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\login.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_navigation_tab_local_news.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\biz_navigation_tab_local_news.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_tumblr.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_renren.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_renren.png"
+    }
+]

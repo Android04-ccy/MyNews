@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullToRefreshView"><attr format="enum" name="lrefresh"><enum name="rocket" value="0"/><enum name="sun" value="1"/></attr></declare-styleable>
+    <string name="app_name">library</string>
+</resources>
